@@ -1,9 +1,9 @@
 # RCDS
 realtime cooperate document system
 
-install meteor：https://www.meteor.com/
-git clone & cd in the cloned directory
-
-meteor npm install
-meteor
-
+install meteor：https://www.meteor.com/  
+## to run
+git clone https://github.com/lodengo/RCDS.git   
+cd RCDS  
+meteor npm install  
+meteor  
