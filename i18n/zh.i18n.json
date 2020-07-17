@@ -1,0 +1,20 @@
+{
+    "_locale": "zh-CN",    
+    "pages": {
+        "LoginPage": {
+            "usernameRequired": "请输入账号",
+            "passwordRequired": "请输入密码",
+            "signIn": "立即登录",
+            "needAccount": "注册",
+            "loginErr": "用户名或密码错误"
+        },
+        "RegisterPage": {
+            "usernameRequired": "请输入账号",
+            "passwordRequired": "请输入密码",
+            "confirmPasswordRequired": "请输入确认密码",
+            "confirmPasswordNotMatch": "两次输入的密码不匹配",
+            "register": "注册"
+        }
+       
+    }
+}

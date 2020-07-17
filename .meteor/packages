@@ -15,7 +15,6 @@ tracker@1.2.0
 # standard libraries
 jquery@1.11.10
 underscore@1.0.10
-less@2.7.11
 
 # ui
 static-html
@@ -64,3 +63,4 @@ shell-server@0.5.0
 audit-argument-checks@1.0.7
 dynamic-import@0.5.1
 reactive-var@1.0.11
+less
